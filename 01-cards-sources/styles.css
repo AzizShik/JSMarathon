@@ -59,7 +59,7 @@ h3{
   visibility: hidden;
   transform: translateY(-200%);
 
-  transition: all .25s linear;
+  transition: all .25s linear 0.2s;
 }
 
 h3.active--title{
@@ -67,4 +67,16 @@ h3.active--title{
   visibility: visible;
   transform: translateY(0%);
 
+}
+
+
+@media(max-width: 991px) {
+  html{
+    font-size: 9px;
+  }
+
+
+  .container{
+    flex-direction: column;
+  }
 }
