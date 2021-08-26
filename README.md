@@ -1,4 +1,4 @@
-![vertical-slider (1)](https://user-images.githubusercontent.com/68865224/131020372-d5bbc525-3d02-4eb1-a3ef-ea082e9715f3.gif
+
 
 # JSMarathon
 
